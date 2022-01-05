@@ -1,0 +1,148 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 700;
+}
+.first_section {
+  margin-bottom: 70px;
+}
+.main {
+  display: flex;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.border_color {
+  border-left: 5px solid tomato;
+  padding-left: 20px;
+  border-radius: 10px;
+}
+
+.name_style {
+  font-family: 'Satisfy', cursive;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.name_color {
+  color: orange;
+}
+
+.profile_pic img {
+  width: 80%;
+  padding: 0px auto;
+}
+
+.primary_btn {
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  border-color: tomato;
+  background-color: tomato;
+  color: white;
+}
+
+#scroll {
+  margin-top: 30px;
+}
+
+.title {
+  text-align: center;
+  font-family: 'Acme', sans-serif;
+  font-size: 50px;
+}
+
+.all_mission {
+  display: flex;
+  justify-content: space-around;
+  border: 10px solid white;
+}
+.img img {
+  width: 40%;
+}
+.mission {
+  width: 350px;
+  border-radius: 20px;
+  box-shadow: 4px 4px 12px gray;
+  background-color: lightgray;
+}
+.vision {
+  width: 350px;
+  border-radius: 20px;
+  box-shadow: 4px 4px 12px gray;
+  background-color: lightblue;
+}
+.goal {
+  width: 350px;
+  border-radius: 20px;
+  box-shadow: 4px 4px 12px gray;
+  background-color: lightgoldenrodyellow;
+}
+
+.mission_title {
+  font-family: 'Acme', sans-serif;
+  font-size: xx-large;
+}
+
+.details {
+  padding: 2px 20px;
+}
+
+.second_section {
+  margin-bottom: 70px;
+}
+
+.third_section {
+  margin-bottom: 70px;
+}
+
+.fourth_section {
+  margin-bottom: 100px;
+}
+
+#just {
+  text-align: left;
+}
+
+.third_section {
+  background-image: url(./images/shapes/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.fourth_section {
+  background-image: url(./images/shapes/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.project_pic img {
+  width: 80%;
+  padding-left: 90px;
+}
+
+#tag {
+  text-align: center;
+  color: darkcyan;
+}
+#tag_2 {
+  padding-left: 5px;
+}
+
+footer {
+  background-color: black;
+  font-family: 'Satisfy', cursive;
+  font-weight: 400;
+  font-size: 20px;
+}
+.footer-text {
+  text-align: center;
+  color: lightgray;
+}
+#footer_color {
+  color: tomato;
+}
+#last {
+  padding: 10px;
+}
